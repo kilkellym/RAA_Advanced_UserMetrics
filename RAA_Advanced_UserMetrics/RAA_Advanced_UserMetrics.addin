@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_Advanced_UserMetrics - Command 1</Text>
+    <Description>Some description for RAA_Advanced_UserMetrics</Description>
+    <Assembly>RAA_Advanced_UserMetrics.dll</Assembly>
+    <FullClassName>RAA_Advanced_UserMetrics.Command1</FullClassName>
+    <ClientId>c4d45ec8-2724-41cc-8c3b-5d7d468df852</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_Advanced_UserMetrics - Command 2</Text>
+    <Description>Some description for RAA_Advanced_UserMetrics</Description>
+    <Assembly>RAA_Advanced_UserMetrics.dll</Assembly>
+    <FullClassName>RAA_Advanced_UserMetrics.Command2</FullClassName>
+    <ClientId>fb76e558-16c6-4413-b20a-e11788094953</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_Advanced_UserMetrics</Name>
+    <Assembly>RAA_Advanced_UserMetrics.dll</Assembly>
+    <FullClassName>RAA_Advanced_UserMetrics.App</FullClassName>
+    <ClientId>b7a65d0d-0088-447b-afc5-05da1687ea56</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
